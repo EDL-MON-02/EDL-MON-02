@@ -8,21 +8,16 @@ The PCB plays a crucial role in the functionality of our robotic vacuum cleaner,
 
 ## Repository Structure
 
-- **Schematics:** This directory contains the schematics of the PCB design, detailing the connections between different components and their respective functionalities.
-
-- **Layout:** Here, you'll find the PCB layout files, which determine the physical arrangement of components on the PCB.
+- **KiCad Files:** This directory contains both the schematics and layout files for the PCB design. The files are organized to facilitate easy access and modification of the design.
 
 - **Gerber Files:** This directory contains the Gerber files generated from the PCB layout, which are used for manufacturing the actual PCB.
 
 
 ## How to Use
 
-1. **Schematics:** Open the schematic files using KiCad EDA (Electronic Design Automation) software to review and understand the connections between components.
+1. **KiCad Files:** Open the KiCad project files (.pro) using KiCad EDA (Electronic Design Automation) software. Inside the project, you will find both the schematic and layout files, allowing you to review and modify the design as needed.
 
-2. **Layout:** Open the layout files in KiCad to visualize the physical arrangement of components on the PCB and make any necessary adjustments.
-
-3. **Gerber Files:** These files are ready for manufacturing. You can use them to order the fabrication of the PCB from a PCB manufacturer.
-
+2. **Gerber Files:** These files are ready for manufacturing. You can use them to order the fabrication of the PCB from a PCB manufacturer.
 
 
 
