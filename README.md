@@ -41,6 +41,6 @@ The robotic vacuum cleaner we're building is engineered to seamlessly navigate t
 - Pratik Yabaji (2100700xx)
 - Sumit Londhe (210070089)
 - Arya Agarwal (2100700xx)
-- Alok Kumar (2100700xx)
+- Alok Kumar (210070006)
 
 
