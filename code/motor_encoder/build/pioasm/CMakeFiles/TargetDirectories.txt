@@ -1,0 +1,3 @@
+/home/pratikyabaji/Desktop/pico_w/motor_encoder/build/pioasm/CMakeFiles/pioasm.dir
+/home/pratikyabaji/Desktop/pico_w/motor_encoder/build/pioasm/CMakeFiles/edit_cache.dir
+/home/pratikyabaji/Desktop/pico_w/motor_encoder/build/pioasm/CMakeFiles/rebuild_cache.dir

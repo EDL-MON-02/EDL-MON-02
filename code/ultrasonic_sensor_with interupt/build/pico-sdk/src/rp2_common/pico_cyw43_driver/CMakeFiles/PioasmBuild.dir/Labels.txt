@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/pratikyabaji/Desktop/pico_w/ultrasonic_sensor_with interupt/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
