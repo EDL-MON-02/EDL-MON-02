@@ -20,8 +20,9 @@ The robotic vacuum cleaner we're building is engineered to seamlessly navigate t
   
 - **Circuit Design:** Dive into detailed schematics and diagrams outlining the electrical connections and component layout for a comprehensive understanding of the vacuum cleaner's circuitry.
   
-- **Raspberry Pi Code:** Explore the source code tailored for the Raspberry Pi, responsible for high-level control, decision-making, and seamless communication with sensors and actuators.
-  
+- **Raspberry Pi Code(code):** Explore the source code tailored for the Raspberry Pi, responsible for high-level control, decision-making, and seamless communication with sensors and actuators.
+
+- **Web Server + Flutter App:** Explore the code for the flask server and flutter app by installing flutter and flask locally on your local network.
 - **Simulation Code:** Access simulation code used to rigorously test and validate the performance of our robotic vacuum cleaner in virtual environments.
 
 ## How to Use
@@ -38,9 +39,9 @@ The robotic vacuum cleaner we're building is engineered to seamlessly navigate t
 
 ## Team members
 
-- Pratik Yabaji (2100700xx)
+- Pratik Yabaji (210070094)
 - Sumit Londhe (210070089)
-- Arya Agarwal (2100700xx)
+- Arya Agarwal (210070012)
 - Alok Kumar (210070006)
 
 
